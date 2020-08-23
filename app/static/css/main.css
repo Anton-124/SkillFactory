@@ -1,0 +1,134 @@
+.index2_body {
+	background-image: url("../img/bambyk.jpg");
+}
+.index2_h1 {
+    font-size: 100px;
+	font-weight: lighter ;
+	color: orangered;
+}
+.index2_h1:hover {
+	color: aqua;
+}
+.li {
+	font-style: initial;
+	background-color: gray;
+}
+.ul2 {
+	font-size: 20px;
+	font-style: initial;
+	background-color: gray;
+}
+.diviz {
+	font-size: 30px;
+	font-style: oblique;
+	color: greenyellow;
+}
+.rule {
+	font-size: 30px;
+	font-style: oblique;
+	color: greenyellow;
+}
+.our_addres {
+	font-size: 30px;
+	font-style: oblique;
+	color: greenyellow;
+}
+.phone_num {
+	font-size: 30px;
+	font-style: oblique;
+	color: greenyellow;
+}
+.agressor {
+	font-size: 30px;
+	font-weight: lighter;
+	color: orange;
+}
+.rubrika {
+	font-size: 25px;
+	color: aqua;
+}
+.index {
+	font-size: 40px;
+	color: rgb(20, 20, 200);
+	font-weight: bolder ;
+	text-decoration: underline;
+	padding: 5px;
+	border: 2px palevioletred;
+}
+.index:visited {
+	color: lightblue;
+}
+.index:hover {
+	color: aqua;
+}
+
+.divdiv {
+	color: red;
+	size: 30px;
+}
+.divdiv:hover {
+	color: aqua;
+	size: 100px;
+}
+.prof-text {
+	display: block;
+	width: 100%;
+	top: 1px;
+}
+.items-wrapper {
+	position: relative;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	display: flex;
+	justify-content: center;
+	margin-top: 200px;
+	background-color: red;
+}
+.item {
+	display: inline-block;
+	font-size: 30px;
+	font-weight: bolder;
+	background-color: green;
+	width: 150px;
+	margin-right: 50px;
+	margin-left: 50px;
+	vertical-align: center;
+}
+.item-name {
+	display: flex;
+	justify-content: center;
+
+
+}
+.item-name:nth-child(2n) {
+	background-color: aqua;
+
+}
+
+.img {
+	margin: 10px  20px 10px 10px;
+	width: 200px;
+	height: 150px;
+
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	height: 300px;
+
+}
+.text-center {
+	position: center;
+}
+.img_position {
+	display: inline-block;
+	position: relative;
+	top: 100px;
+	left: 100px;
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+}
